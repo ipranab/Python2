@@ -1,0 +1,14 @@
+TOKENIZATION - It's basic function is to split text into word or sentences called tokens. 
+    Significance: *Helps in text processing.
+                  *Enables efficient analysis based on breaking the language structure.
+                  *support various tasks like sentiment analysis, language translation, etc.
+
+STEMMING - It's basic function is to reduce the words to its root form by removing prefix and suffix.
+      Significance: *Improves search engine efficiency
+                    *Enhances text analysis for NLP
+
+LEMMATIZATION - It's basic function is to reduce the word to its dictionary (base) form, known as lemma
+                Lemmatization produces actual word, not like Stemming.
+      Significance: *Reduces word variation.
+                    *Improves search engine efficiency
+                    *Enhances text analysis for NLP
