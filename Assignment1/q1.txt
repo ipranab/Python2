@@ -1,0 +1,7 @@
+What is the significance of classes in Python programming, 
+and how do they contribute to objectoriented programming?
+
+Ans- Classes in Python programming support oops by encapsulating data and functions into objects.
+      -Promote code reuse through inheritance
+      -Support abstraction
+      -Allow creation of custom data types.
