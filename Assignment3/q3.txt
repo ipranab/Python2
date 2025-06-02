@@ -1,0 +1,7 @@
+Part-of-Speech(POS) tagging is the process of assigning grammatical categories to the words according
+to their meaning.
+
+Importance:- 
+-> improves the text understanding in NLP.
+-> improves lemmatization.
+-> used in text-to-speech languages.
