@@ -1,0 +1,7 @@
+Natural Language Processing (NLP) is a field of AI that allows computers to understand, interpret 
+and generate human language.
+
+Applications of NLP are:-
+*Chatbots- Automate customer service, 24/7 service.
+*Language Translation- Acts as a bridge between language barriers. (eg:Google translate)
+*Sentiment Analysis- Understand public opinion from social media.
